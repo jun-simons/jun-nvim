@@ -9,7 +9,7 @@ Main plugins:
 - Houdini (keymaps, esc->jk etc)
 - lazydev, lspconfig
 - indent-blankline, nvimlint, conform
-- autopairs, gitsigns
+- autopairs, gitsigns, todo-comments
 - Neo-tree (occasinally use the file tree) 
 
 
